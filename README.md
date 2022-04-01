@@ -8,5 +8,5 @@
 
    -  The creation and population files are written in PL/pgSQL and SQL language. With the help of tools such as PostgresSQL JDBC driver and TomCat server, the database is created and linked to Netbeans IDE.
 
-    - The Web pages such as index.html, connect.html and others are implemented using HTML, JavaScript and CSS. Some code to connect the Database to the website is written using Java, under Netbeans IDE. 
+   - The Web pages such as index.html, connect.html and others are implemented using HTML, JavaScript and CSS. Some code to connect the Database to the website is written using Java, under Netbeans IDE. 
 
