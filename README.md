@@ -2,7 +2,7 @@
 
    -  This project's objective is to design a database for a hardware shop, using NetBeans IDE and TomCat application. 
    
-   -  The  description of the whole project and study is saved as a pdf file (Project Description).
+   -  The  description of the whole project and study is saved as a pdf file (project_description.pdf).
 
    -  You will find an explanatory YouTube video link to visualize a demonstration of the database implementation and its different implemented functions, or you can find the code and the database's tables, with the code to create and populate them as well. 
 
